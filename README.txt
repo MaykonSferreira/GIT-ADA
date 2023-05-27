@@ -1,8 +1,10 @@
-ARQUIVO MODIFICADO | COMANDO git diff
+ARQUIVO MODIFICADO
 
-nova modficacao
+nova modificacao
 
 uso do comando restore
+
+uso do comando diff
 
 uso do comando push
 
